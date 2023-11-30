@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @LyaQii
+- 👋 Hi, I’m Tina
 - 👀 I’m interested in travelling.
 - 🌱 I’m currently learning Network & Security.
 - 💞️ I’m looking to collaborate on nothing currently.
